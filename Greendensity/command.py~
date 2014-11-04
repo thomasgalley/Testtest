@@ -11,9 +11,9 @@ def process():
    
    arguments= parser.parse_args()
 
-   print geolocate(arguments.city)
-   print geolocate(arguments.secondcity)
-   plot_city_green(arguments.city)
+   #print geolocate(arguments.city)
+   #print geolocate(arguments.city2)
+   #plot_city_green(arguments.city)
    plot_density_of_green(arguments.city, arguments.secondcity)
 
 if __name__ == "__main__":

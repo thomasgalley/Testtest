@@ -3,8 +3,7 @@ from setuptools import setup
 setup(
     name = "Greendensity",
     version = "0.1",
-    #packages = find_packages(exclude=['*test']),
-    scripts = ['scripts/geolocate'],
+        scripts = ['scripts/citygreenery'],
     packages = ['Greendensity'],
     install_requires = ['argparse']
 )
