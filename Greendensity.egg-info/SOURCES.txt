@@ -7,7 +7,10 @@ Greendensity/Points.py
 Greendensity/URL.py
 Greendensity/Visualise.py
 Greendensity/__init__.py
+Greendensity/command.py
 Greendensity.egg-info/PKG-INFO
 Greendensity.egg-info/SOURCES.txt
 Greendensity.egg-info/dependency_links.txt
+Greendensity.egg-info/requires.txt
 Greendensity.egg-info/top_level.txt
+scripts/geolocate

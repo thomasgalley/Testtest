@@ -1,0 +1,3 @@
+#!/usr/bin/python
+from Greendensity.command import process
+process()
