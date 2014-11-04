@@ -1,7 +1,7 @@
 
 from nose.tools import assert_equal
-
-from Greendensity.Green import count_green_in_png
+from .. import Green
+from .. import count_green_in_png
 import requests
 
 #In the following test we verify that the count_green_in_png returns the correct number of green pixels for a known completly green image png file
